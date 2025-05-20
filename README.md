@@ -1,2 +1,7 @@
-# quiz-app-in-python-
-Quiz App Project Description  The Quiz App is a Python-based interactive application designed to provide users with a seamless quiz-taking experience. The application features a user-friendly graphical interface, robust quiz logic, and integrated database management to store questions and track user progress.
+# Offline Quiz App
+
+## How to Run
+
+1. Make sure you have Python 3 installed.
+2. Navigate to the 'app' folder.
+3. Run the command: `python main.py`
